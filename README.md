@@ -9,8 +9,6 @@ More resources are coming soon!
 ## Quick Links:
 Linktree: https://linktr.ee/utqc
 
-Hackathon sign-up: https://airtable.com/shrwMaEHDSUPM2AaR
-
 Hackathon Website: https://qiskitfallfest.hypeinnovation.com/servlet/hype/IMT?documentTableId=396317850560774248&userAction=Browse&templateName=&documentId=08e3690945a28bbf450ddf3f9c53e01e
 
 UTQC Discord: https://discord.gg/bH459sNNUY
