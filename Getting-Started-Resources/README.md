@@ -24,3 +24,4 @@
 
 # Learning Resources
 - [Qiskit Introuction Series](https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
+- [Qiskit Textbook](https://qiskit.org/textbook/preface.html)
