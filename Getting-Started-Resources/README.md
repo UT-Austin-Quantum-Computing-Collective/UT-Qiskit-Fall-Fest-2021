@@ -13,7 +13,7 @@
 - [List of Open Quantum Projects](https://qosf.org/project_list/)
 
 # A website with tons of example projects from the Q-munity Hack-Q-Thon
--[Q-munity Hack-Q-Thon](https://hack-q-thon.devpost.com/project-gallery)
+- [Q-munity Hack-Q-Thon](https://hack-q-thon.devpost.com/project-gallery)
 # A Medium Blog with Many Project Ideas
 - [My ideas for a quantum hackathon](https://decodoku.medium.com/my-ideas-for-a-quantum-hackathon-70c8c7ee702e)
 # Beginner Projects
