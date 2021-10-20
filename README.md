@@ -9,7 +9,7 @@ More resources are coming soon!
 ## Quick Links:
 Linktree: https://linktr.ee/utqc
 
-Project Resrources: https://github.com/UT-Austin-Quantum-Computing-Collective/UT-Qiskit-Fall-Fest-2021/tree/main/Getting-Started-Resources
+Project Resources: https://github.com/UT-Austin-Quantum-Computing-Collective/UT-Qiskit-Fall-Fest-2021/tree/main/Getting-Started-Resources
 
 Hackathon Website: https://qiskitfallfest.hypeinnovation.com/servlet/hype/IMT?documentTableId=396317850560774248&userAction=Browse&templateName=&documentId=08e3690945a28bbf450ddf3f9c53e01e
 
