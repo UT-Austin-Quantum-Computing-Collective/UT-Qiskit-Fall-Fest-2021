@@ -2,7 +2,7 @@
 Resources for UT Austin's Qiskit Fall Fest Hackathon, run by the UT Quantum Collective + IBM
 
 ## Welcome!
-Thank you for participating in the UT Qiskit Fall Fest Hackathon! Thank you for making the first quantum hackathona memorable event at UT!
+Thank you for participating in the UT Qiskit Fall Fest Hackathon andfor making the first quantum hackathon a memorable event at UT!
 
 ## Quick Links:
 Hackathon Workshops and Speaker Videos: https://www.youtube.com/watch?v=Vg-Q8VBx1FE&list=PL6nuv2rOCeQSwvE2G8YvX2sUIbi9zsiLl
