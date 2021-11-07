@@ -2,12 +2,10 @@
 Resources for UT Austin's Qiskit Fall Fest Hackathon, run by the UT Quantum Collective + IBM
 
 ## Welcome!
-Thank you for participating in the UT Qiskit Fall Fest Hackathon! This is where we'll post all recordings, slides, files, and resources throughout the month.
-
-More resources are coming soon!
+Thank you for participating in the UT Qiskit Fall Fest Hackathon! Thank you for making the first quantum hackathona memorable event at UT!
 
 ## Quick Links:
-Linktree: https://linktr.ee/utqc
+Hackathon Workshops and Speaker Videos: https://www.youtube.com/watch?v=Vg-Q8VBx1FE&list=PL6nuv2rOCeQSwvE2G8YvX2sUIbi9zsiLl
 
 Project Resources: https://github.com/UT-Austin-Quantum-Computing-Collective/UT-Qiskit-Fall-Fest-2021/tree/main/Getting-Started-Resources
 
